@@ -29,4 +29,11 @@ Bunlar: Açı[rad], Tekerlek Açısal Hızları[rad/s], vLeft[volt], vRight[volt
 
 ##### NOT : Simülasyon için hazırlanmış fonksiyonlara Robotics Playground’un web sayfasından [roboticsplayground](https://github.com/mathworks-robotics/robotics-playground) ulaşabilirsiniz.
 
+# ➤ Proje içinden görüntüler
+
+![alt text](https://raw.githubusercontent.com/KerimAksak/Robotic-PID-Control/master/vehicle_1.jpg)
+
+![alt text](https://raw.githubusercontent.com/KerimAksak/Robotic-PID-Control/master/vehicle_2jpg.jpg)
+
+![alt text](https://raw.githubusercontent.com/KerimAksak/Robotic-PID-Control/master/vehicle_3.jpg)
 
